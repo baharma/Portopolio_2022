@@ -1,7 +1,7 @@
 # KemanaKita
 
 <p align="center">
-  <img src="https://github.com/perfect-less/KemanaKita/blob/main/app_ui.jpeg">
+  <img src="https://github.com/baharma/Portopolio_2022_web/blob/main/portopolio.PNG">
 </p>
 
 In this project we tried to make **exploring** and **travelling** the heavens in Indonesia much more **fun** and **enjoyable**. We aim to give you **best tour guide** in your phone!. We will develop this project in stages!  
