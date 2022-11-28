@@ -38,8 +38,31 @@ pada di atas adalah hasil saya dalam belajar front-pemula yang saya pelajar dari
 Pembelajaran yang saya pelajari pada buildWitangga dimana memakai Laravel 7 dan awal saya untuk mempelajari Laravel dimana saya yakin bisa pada awalnya
 
 
+- Repo Project : [https://github.com/baharma/nomadby-baharma]
+- Pembelajaran : [https://buildwithangga.com/kelas/full-stack-developer-with-laravel-web-travel?main_leads=searchsuggestion]
 
 
+# Pembelajaran Sendiri pada Laravel  
+
+## Laravel leaning path 
+
+pada repo ini saya belajar sendiri pada dokumentasi tentang crud dengan lebih seksama dan lanjut dimana tidak terlalu terpaku pada video youtube
+
+- Repo : [https://github.com/baharma/laravel-belajar-path]
+
+
+## Laravel News 
+
+pada project ini saya membuat yaitu media berita dimana terdapat 3 role berikut databasenya
+
+<p align="center">
+  <img src="https://github.com/baharma/Portopolio_2022_web/blob/main/data.PNG">
+</p>
+
+pada project ini saya melakukan kesalahan dimana hanya memikirkan bagian sisi Back-end saya dimana saya berusaha membuatnya serumit mungkin dan malah tidak memikirkan front-end tersebut dimana user berinteraksi dimana kurangnya pengalaman
+
+berikut repo
+- Repo Project : [https://github.com/baharma/news-laravel]
 
 ## Installation Laravel 
 
@@ -89,11 +112,6 @@ Terakhir, untuk membukanya di web browser, jalankan perintah:
 
 ```
 
-## App Demo
-![Alt Text](https://github.com/perfect-less/KemanaKita/blob/main/app_demo.gif)
 
-## Project Documents:
-- Project Brief : [https://docs.google.com/document/d/1QUAWh6n-NVDhZKasQrm7BxKJSpVN7jeT-Z00PNQOQbk/edit?usp=sharing](https://docs.google.com/document/d/1QUAWh6n-NVDhZKasQrm7BxKJSpVN7jeT-Z00PNQOQbk/edit?usp=sharing)
-- Final presentation : [Product Presentation.pptx](https://github.com/perfect-less/KemanaKita/raw/main/Product%20Presentation.pptx)
-    
 
+Sekian project yang bisa saya sampaikan Terima Kasih
