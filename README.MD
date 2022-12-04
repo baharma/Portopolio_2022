@@ -50,7 +50,7 @@ pada repo ini saya belajar sendiri pada dokumentasi tentang crud dengan lebih se
 
 - Repo : [https://github.com/baharma/laravel-belajar-path]
 
-
+a
 ## Laravel News 
 
 pada project ini saya membuat yaitu media berita dimana terdapat 3 role berikut databasenya
