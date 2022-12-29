@@ -77,13 +77,27 @@ dapat mengurangi kecurangan dan dapat di pantau setiap data yang masuk
 
 
 
+
 berikut repo
 - Repo Project : [https://gitlab.com/b3015/skripsi-sapta]
 
 Kemungkinan saya hanya membuka project ini public hanya sementara
 
 ## Pendaftaran UKM
+Projeck ini adalah buah pikiran saya dalam dimana kampus saya, saya selalu ketinggalan dan saya berfikir kenapa tidak membuat aplikasi demana kita 
+dapat mengakses aplikasi tersebut dengan mudah dan kita dapat mengikuti dan daftar dengan mudah dimana goal aplikasi tesebut 
+tidak ada lagi mahasiswa ketinggalan event lagi
 
+<p align="center">
+  <img src="https://github.com/baharma/Portopolio_2022_web/blob/main/instiki.PNG">
+</p>
+
+tool yang di pakai
+- sweetalert2
+- Ajax js
+- Laravel
+- Boostrap
+- Laravel Excel (comming soon) Untuk list data lebih mudah
 
 
 - Repo Project  : [https://github.com/baharma/Pendaftaran_Event_UKM_INSTIKI]
