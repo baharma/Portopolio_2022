@@ -51,18 +51,34 @@ pada repo ini saya belajar sendiri pada dokumentasi tentang crud dengan lebih se
 - Repo : [https://github.com/baharma/laravel-belajar-path]
 
 a
-## Laravel News 
+## Input Penjualan Toko
 
-pada project ini saya membuat yaitu media berita dimana terdapat 3 role berikut databasenya
+Pada Project ini saya membuat website berbasis laravel dengan menginputkan penjualan barang fitnes yang terjualn
+
+tool yang di pakai
+- sweetalert2
+- Ajax js
+- DomPDF
+- Laravel
+- Boostrap
+
+dengan hanya saya sendiri yang mengembangkan dan ide pembuatan dari skirpsi yang saya dapatkan
+
 
 <p align="center">
-  <img src="https://github.com/baharma/Portopolio_2022_web/blob/main/data.PNG">
+  <img src="https://github.com/baharma/Portopolio_2022_web/blob/main/login.PNG">
 </p>
 
 pada project ini saya melakukan kesalahan dimana hanya memikirkan bagian sisi Back-end saya dimana saya berusaha membuatnya serumit mungkin dan malah tidak memikirkan front-end tersebut dimana user berinteraksi dimana kurangnya pengalaman
 
 berikut repo
-- Repo Project : [https://github.com/baharma/news-laravel]
+- Repo Project : [https://gitlab.com/b3015/skripsi-sapta]
+
+
+## Pendaftaran UKM
+
+
+
 
 ## Installation Laravel 
 
