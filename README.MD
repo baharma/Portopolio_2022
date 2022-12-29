@@ -69,16 +69,24 @@ dengan hanya saya sendiri yang mengembangkan dan ide pembuatan dari skirpsi yang
   <img src="https://github.com/baharma/Portopolio_2022_web/blob/main/login.PNG">
 </p>
 
-pada project ini saya melakukan kesalahan dimana hanya memikirkan bagian sisi Back-end saya dimana saya berusaha membuatnya serumit mungkin dan malah tidak memikirkan front-end tersebut dimana user berinteraksi dimana kurangnya pengalaman
+Pada Projeck ini mempunyai back-end saja dimana hanya pegawai saja yang dapat mengaksesnya.
+
+Cara Kerja Program ini adalah dimana kita menginput penjualan dan mendapatkan pdf hasil dari penjualan dimana kita dapat bukti
+dimana program ini bertujuan memecahkan permasalahan kecurangan pegawai dalam mematok harga berlebihan dimana dengan aplikasi tersebut 
+dapat mengurangi kecurangan dan dapat di pantau setiap data yang masuk
+
+
 
 berikut repo
 - Repo Project : [https://gitlab.com/b3015/skripsi-sapta]
 
+Kemungkinan saya hanya membuka project ini public hanya sementara
 
 ## Pendaftaran UKM
 
 
 
+- Repo Project  : [https://github.com/baharma/Pendaftaran_Event_UKM_INSTIKI]
 
 ## Installation Laravel 
 
